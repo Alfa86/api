@@ -1,0 +1,201 @@
+{
+  "golfers": [
+    {
+      "Name": "Markeczzz",
+      "id": 3,
+      "HomeClub": "43555542",
+      "HCP": "0988870215",
+      "Status": "43555542",
+      "AGE": "15",
+      "LastName": "kalro",
+      "Phone": "0988870215",
+      "Country": "rvacks",
+      "Region": "regijon",
+      "City": "Markeczzz",
+      "ZIP": "0988870215",
+      "Address": "Markeczzz",
+      "PlayerCategory": "amaetru",
+      "Category": "fmnfnfnf"
+    },
+    {
+      "Name": "dddddfgkk",
+      "id": 235,
+      "HomeClub": "43555542",
+      "HCP": "99987",
+      "Status": "Active",
+      "AGE": "87",
+      "LastName": "kalro",
+      "Phone": "99987",
+      "Country": "rvacks",
+      "Region": "regijon",
+      "City": "dddddfgkk",
+      "ZIP": "99987",
+      "Address": "dddddfgkk",
+      "PlayerCategory": "amaetru",
+      "Category": "fmnfnfnf"
+    },
+    {
+      "Name": "Sergek",
+      "id": "3452",
+      "HomeClub": "",
+      "HCP": "35255243",
+      "Status": "Active",
+      "AGE": "65",
+      "LastName": "Maklini",
+      "Phone": "35255243",
+      "Country": "",
+      "Region": "",
+      "City": "Sergek",
+      "ZIP": "35255243",
+      "Address": "Sergek",
+      "PlayerCategory": "",
+      "Category": ""
+    },
+    {
+      "Name": "dddddfg",
+      "id": 234445,
+      "HomeClub": "43555542",
+      "HCP": "99987",
+      "Status": "Inactive",
+      "AGE": "87",
+      "LastName": "kalro",
+      "Phone": "99987",
+      "Country": "rvacks",
+      "Region": "regijon",
+      "City": "dddddfg",
+      "ZIP": "99987",
+      "Address": "dddddfg",
+      "PlayerCategory": "amaetru",
+      "Category": "fmnfnfnf"
+    },
+    {
+      "Name": "lovro",
+      "id": "678",
+      "HomeClub": "",
+      "HCP": "67584",
+      "Status": "",
+      "AGE": "",
+      "LastName": "Maklini",
+      "Phone": "67584",
+      "Country": "",
+      "Region": "",
+      "City": "lovro",
+      "ZIP": "67584",
+      "Address": "lovro",
+      "PlayerCategory": "",
+      "Category": ""
+    }
+  ],
+  "tournaments": [
+    {
+      "Date": "Markec",
+      "Title": "big tuna",
+      "Venue": "43555542",
+      "Type": "T",
+      "Format": "43555542",
+      "HCP": "68",
+      "Holes": "kalro",
+      "Status": "Finished"
+    },
+    {
+      "Date": "Markec",
+      "Title": "very big guys",
+      "Venue": "43555542",
+      "Type": "LT",
+      "Format": "43555542",
+      "HCP": "12",
+      "Holes": "kalro",
+      "Status": "Finished"
+    },
+    {
+      "Date": "Markec",
+      "Title": "small pepo",
+      "Venue": "43555542",
+      "Type": "TR",
+      "Format": "43555542",
+      "HCP": "150",
+      "Holes": "kalro",
+      "Status": "Finished"
+    },
+    {
+      "Date": "Markec",
+      "Title": "tiny bro",
+      "Venue": "43555542",
+      "Type": "T",
+      "Format": "43555542",
+      "HCP": "75",
+      "Holes": "kalro",
+      "Status": "Finished"
+    },
+    {
+      "Date": "Markec",
+      "Title": "krafnanje",
+      "Venue": "43555542",
+      "Type": "TR",
+      "Format": "43555542",
+      "HCP": "13",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "sibilidibili",
+      "Venue": "43555542",
+      "Type": "LT",
+      "Format": "43555542",
+      "HCP": "22",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "zaludori",
+      "Venue": "43555542",
+      "Type": "TR",
+      "Format": "43555542",
+      "HCP": "450",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "kaka",
+      "Venue": "43555542",
+      "Type": "T",
+      "Format": "43555542",
+      "HCP": "1",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "burkizurki",
+      "Venue": "43555542",
+      "Type": "T",
+      "Format": "43555542",
+      "HCP": "15",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "daruvarss",
+      "Venue": "43555542",
+      "Type": "TR",
+      "Format": "43555542",
+      "HCP": "11",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    },
+    {
+      "Date": "Markec",
+      "Title": "žiži",
+      "Venue": "43555542",
+      "Type": "T",
+      "Format": "43555542",
+      "HCP": "11",
+      "Holes": "kalro",
+      "Status": "Setting Up"
+    }
+  ]
+}
