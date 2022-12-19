@@ -197,5 +197,39 @@
       "Holes": "kalro",
       "Status": "Setting Up"
     }
+  ],
+  "clubs": [
+    {
+      "id": 1,
+      "cid": 5461132,
+      "logo": "/src/assets/images/user-placeholder.jpg",
+      "title": "GCC Torino",
+      "email": "igor@binom.hr",
+      "webAddress": "www.binom.hr",
+      "linkedin": "",
+      "facebook": "",
+      "twitter": "",
+      "address": "Finano, Italy",
+      "phone": "+385 94 874 877",
+      "clubStatus": "Active",
+      "actionConnect": true,
+      "connectedTo": ""
+    },
+    {
+      "id": 2,
+      "cid": 5461132,
+      "logo": "/src/assets/images/user-placeholder.jpg",
+      "title": "GCC Torino",
+      "email": "igor@binom.hr",
+      "webAddress": "www.binom.hr",
+      "linkedin": "",
+      "facebook": "",
+      "twitter": "",
+      "address": "Dubrovnik, Croatia",
+      "phone": "+385 94 874 877",
+      "clubStatus": "Inactive",
+      "actionConnect": false,
+      "connectedTo": ""
+    }
   ]
 }
