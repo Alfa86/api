@@ -404,26 +404,41 @@
     }
   ],
   "filters": {
-    "golfers": [
-      {
-        "status": [
-          {
-            "id": 0,
-            "title": "Active",
-            "value": "active"
-          },
-          {
-            "id": 1,
-            "title": "Inactive",
-            "value": "inactive"
-          },
-          {
-            "id": 2,
-            "title": "None",
-            "value": ""
-          }
-        ]
-      }
-    ]
+    "golfers": {
+      "status": [
+        {
+          "id": 0,
+          "title": "Active",
+          "value": "active"
+        },
+        {
+          "id": 1,
+          "title": "Inactive",
+          "value": "inactive"
+        },
+        {
+          "id": 2,
+          "title": "None",
+          "value": ""
+        }
+      ],
+      "clubs": [
+        {
+          "id": 0,
+          "title": "Active",
+          "value": "active"
+        },
+        {
+          "id": 1,
+          "title": "Inactive",
+          "value": "inactive"
+        },
+        {
+          "id": 2,
+          "title": "None",
+          "value": ""
+        }
+      ]
+    }
   }
 }
