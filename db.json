@@ -29,8 +29,8 @@
     {
       "uid": 1,
       "id": 1,
-      "firstName": "Darko",
-      "lastName": "Darkić",
+      "firstName": "Ubrus",
+      "lastName": "Lee",
       "dateOfBirth": "1986-07-04",
       "playerCategory": "Amateur",
       "playerStatus": "Active",
@@ -55,8 +55,8 @@
     {
       "uid": 1,
       "id": 2,
-      "firstName": "Marko",
-      "lastName": "Markić",
+      "firstName": "Lepa",
+      "lastName": "Mrena",
       "dateOfBirth": "1988-11-19",
       "playerCategory": "Amateur",
       "playerStatus": "Active",
@@ -81,8 +81,8 @@
     {
       "uid": 1,
       "id": 3,
-      "firstName": "Pero",
-      "lastName": "Perić",
+      "firstName": "Sellin",
+      "lastName": "Domižon",
       "dateOfBirth": "1991-07-26",
       "playerCategory": "Amateur",
       "playerStatus": "Active",
@@ -133,7 +133,7 @@
     {
       "uid": 1,
       "id": 5,
-      "firstName": "Saša",
+      "firstName": "Saša2",
       "lastName": "Tinikedžo",
       "dateOfBirth": "1978-07-04",
       "playerCategory": "Amateur",
@@ -181,6 +181,80 @@
       "facebook": "",
       "twitter": "",
       "honeClub": "GCC Torino"
+    },
+    {
+      "uid": "999",
+      "playerStatus": "Inactive",
+      "firstName": "Igor",
+      "lastName": "Apfentaler",
+      "dateOfBirth": "2022-12-21",
+      "city": "Zaprešić",
+      "noHcp": "on",
+      "hcpIsued": "2022-12-29",
+      "phoneNumber": "0915923075",
+      "zip": "10000",
+      "address": "Negdje u galaxiji",
+      "commentsAndNotes": "sdfsdfsdfsdf",
+      "id": 671
+    },
+    {
+      "uid": "777",
+      "playerStatus": "Inactive",
+      "firstName": "Igor A",
+      "lastName": "Apfentaler",
+      "dateOfBirth": "1986-11-10",
+      "city": "Zaprešić",
+      "noHcp": "on",
+      "hcpIsued": "2022-12-30",
+      "phoneNumber": "0915923075",
+      "zip": "10000",
+      "address": "Negdje u galaxiji",
+      "commentsAndNotes": "876413",
+      "id": 672
+    },
+    {
+      "uid": "555",
+      "playerStatus": "Active",
+      "firstName": "Igor test 3",
+      "lastName": "Apfentaler",
+      "dateOfBirth": "1986-11-10",
+      "city": "Zaprešić",
+      "noHcp": "on",
+      "hcpIsued": "2022-12-23",
+      "phoneNumber": "0915923075",
+      "zip": "10000",
+      "address": "Negdje u galaxiji",
+      "commentsAndNotes": "rtz",
+      "id": 673
+    },
+    {
+      "uid": "46456",
+      "playerStatus": "Inactive",
+      "firstName": "Antun Mutaf",
+      "lastName": "Matoš",
+      "dateOfBirth": "1985-07-10",
+      "city": "Zaprešić",
+      "noHcp": "on",
+      "hcpIsued": "2022-12-23",
+      "phoneNumber": "7897897978",
+      "zip": "10000",
+      "address": "Negdje u galaxiji",
+      "commentsAndNotes": "as",
+      "id": 674
+    },
+    {
+      "uid": "798",
+      "playerStatus": "Inactive",
+      "firstName": "Etan",
+      "lastName": "Ožić",
+      "dateOfBirth": "2002-06-12",
+      "city": "Test",
+      "noHcp": "on",
+      "hcpIsued": "2023-01-01",
+      "phoneNumber": "091599878923075",
+      "zip": "000000",
+      "address": "Test",
+      "id": 675
     }
   ],
   "tournaments": [
@@ -327,6 +401,31 @@
       "clubStatus": "Inactive",
       "actionConnect": false,
       "connectedTo": ""
+    }
+  ],
+  "filters": [
+    {
+      "golfers": [
+        {
+          "status": [
+            {
+              "id": 0,
+              "title": "Active",
+              "value": "active"
+            },
+            {
+              "id": 1,
+              "title": "Inactive",
+              "value": "inactive"
+            },
+            {
+              "id": 2,
+              "title": "None",
+              "value": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
